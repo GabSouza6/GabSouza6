@@ -13,7 +13,7 @@
  
 <br>
  
-### Quer saber mais sobre mim? Confira as redes abaixo!
+### Quer saber mais sobre mim? Confira abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-oliveira-9314aa2b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
