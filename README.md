@@ -7,10 +7,10 @@ Me chamo Gabriel Souza e estou cursando **Sistemas de Informação** na Universi
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /></a>&nbsp;
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" /></a>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
 </p>
 
 ---
